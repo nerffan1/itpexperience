@@ -1,0 +1,12 @@
+os: linux
+dist: focal
+compiler: clang
+
+addons:
+  apt:
+    packages:
+      - libtbb-dev
+language: cpp
+
+script:
+  - ./travis.sh

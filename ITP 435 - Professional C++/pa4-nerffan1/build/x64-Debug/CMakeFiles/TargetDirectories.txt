@@ -1,0 +1,9 @@
+A:/GitHub/pa4-nerffan1/build/x64-Debug/CMakeFiles/edit_cache.dir
+A:/GitHub/pa4-nerffan1/build/x64-Debug/CMakeFiles/main.dir
+A:/GitHub/pa4-nerffan1/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+A:/GitHub/pa4-nerffan1/build/x64-Debug/src/CMakeFiles/src.dir
+A:/GitHub/pa4-nerffan1/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+A:/GitHub/pa4-nerffan1/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
+A:/GitHub/pa4-nerffan1/build/x64-Debug/tests/CMakeFiles/tests.dir
+A:/GitHub/pa4-nerffan1/build/x64-Debug/tests/CMakeFiles/edit_cache.dir
+A:/GitHub/pa4-nerffan1/build/x64-Debug/tests/CMakeFiles/rebuild_cache.dir
